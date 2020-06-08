@@ -1,0 +1,28 @@
+{
+  "author": "Tanjim Ahmed",
+  "description": "My first project on github or glitch and I am feeling awesome!",
+  "keywords": [
+    "freecodecamp",
+    "is",
+    "cool",
+    "for",
+    "learning"
+  ],
+  "license": "Open source",
+  "version": "0.0.1",
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^2.10.2"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
+}
